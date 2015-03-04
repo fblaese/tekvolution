@@ -1,3 +1,1 @@
-# tekvolution-config
-
-this is an example readme
+# tekvolution-config-readme
